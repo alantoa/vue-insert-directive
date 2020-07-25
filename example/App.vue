@@ -114,7 +114,7 @@ export default {
 </script>
 
 <style>
-@import url("./v-insert-directive.css");
+@import url("./vue-insert-directive.css");
 .item {
   padding: 5px 5px;
   border: 1px solid transparent;

@@ -1,4 +1,4 @@
-# v-insert-directive
+# vue-insert-directive
 A directive to insert element for vue.js(2.x).
 
 一款支持在任意标签上插入<input />或 <textarea />元素的 Vue 指令, 对 Enter / Esc / 换行 等键盘事件处理过.
@@ -6,8 +6,12 @@ A directive to insert element for vue.js(2.x).
 ####  DEMO:
 
 ​		
+### Import
+```js
+import InsertDirective from 'vue-insert-derective' // Es6 module
 
-####  使用方式:
+```
+####  Use/使用:
 
 ```javascript
 
@@ -17,7 +21,7 @@ A directive to insert element for vue.js(2.x).
 
 
 <script>
-import InsertDirective from "../src/v-insert-directive";
+import InsertDirective from "../src/vue-insert-directive";
 
 export default {
     name:'...',
@@ -27,7 +31,7 @@ export default {
 }
 </script>
 <style>
-@import url("../src/v-insert-directive.css");
+@import url("../src/vue-insert-directive.css");
 
 </style>
 
@@ -48,9 +52,5 @@ or
 npm run dev
 ```
 
-### Import
-```
-import InsertDirective from 'vue-insert-derective' // Es6 module
 
-```
 
