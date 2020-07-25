@@ -4,8 +4,7 @@ A directive to insert element for vue.js(2.x).
 一款支持在任意标签上插入<input />或 <textarea />元素的 Vue 指令, 对 Enter / Esc / 换行 等键盘事件处理过.
 
 ####  Demo:
-
- [](https://monsteranan.github.io/vue-insert-directive)
+  [🔗](https://monsteranan.github.io/vue-insert-directive)
 	
 ### Import
 ```js
