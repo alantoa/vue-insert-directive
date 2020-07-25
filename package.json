@@ -1,6 +1,6 @@
 {
   "name": "vue-insert-directive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A directive to insert element for vue.js.",
   "main": "./dist/vue-insert-directive.js",
   "scripts": {
